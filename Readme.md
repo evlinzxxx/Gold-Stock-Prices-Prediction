@@ -255,6 +255,3 @@ Berdasarkan hasil permodelan dan evaluasi, model LSTM disimpulkan cukup baik unt
  
 
 
-##### Proyek 1 Machine Learning Terapan
-
-
